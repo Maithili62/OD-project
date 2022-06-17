@@ -1,0 +1,24 @@
+body
+{
+background-image: conic-gradient(red, yellow, green, blue, black);
+}
+
+.heading
+{
+    color: white;
+    font-weight: bolder;
+    font-size: 100px;
+    font-family: fantasy;
+    text-align: center;
+    width: 100%;
+}
+
+.but
+{
+    width: 255px;
+    height: 60px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
